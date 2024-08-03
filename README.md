@@ -21,7 +21,7 @@ Here are the skills I'm specialized in the most:
 - PostgreSQL, MySQL, MongoDB, MariaDB
 - Jira, Trello, Slack, Microsoft Teams
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
